@@ -1,7 +1,0 @@
-layout: page
-title: "About"
-permalink: /About/
-
-The Self-Respect Movement is a South Asian movement with the aim of achieving a society where backward castes have equal human rights,[1] and encouraging backward castes to have self-respect in the context of a caste-based society that considered them to be a lower end of the hierarchy.[2] It was founded in 1925 by S. Ramanathan[3] who invited E. V. Ramasamy (also called as Periyar by his devoted followers) to head the movement in Tamil Nadu, India against Brahminism. The movement was extremely influential not just in Tamil Nadu, but also overseas in countries with large Tamil populations, such as Malaysia and Singapore. Among Singapore Indians, groups like the Tamil Reform Association, and leaders such as Thamizhavel G. Sarangapani were prominent in promoting the principles of the Self-Respect Movement among the local Tamil population through schools and publications.
-
-A number of political parties in Tamil Nadu, such as Dravida Munnetra Kazhagam (DMK) and All India Anna Dravida Munnetra Kazhagam (AIADMK) owe their origins to the Self-respect movement,[4] the latter a 1972 breakaway from the DMK. Both parties are populist with a generally social democratic orientation
