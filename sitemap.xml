@@ -1,34 +1,47 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for page in site.pages %}
-        <url>
-            <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            {% if page.layout == 'main' %}
-                <changefreq>weekly</changefreq>
-                <priority>1</priority>
-                <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
-            {% else %}
-                <changefreq>monthly</changefreq>
-                <priority>0.5</priority>
-            {% endif %}
-        </url>
-    {% endfor %}
-    {% for post in site.posts %}
-        <url>
-            <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
-        </url>
-    {% endfor %}
-    {% for author in site.authors %}
-        <url>
-            <loc>{{ author.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            <changefreq>monthly</changefreq>
-            <priority>0.5</priority>
-        </url>
-    {% endfor %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.periyar142.info/</loc>
+  <lastmod>2020-09-08T17:43:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.periyar142.info/about/</loc>
+  <lastmod>2020-09-08T17:43:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.periyar142.info/welcome/</loc>
+  <lastmod>2020-09-08T17:43:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.periyar142.info/speakers/</loc>
+  <lastmod>2020-09-08T17:43:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.periyar142.info/tags/</loc>
+  <lastmod>2020-09-08T17:43:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.periyar142.info/competition/</loc>
+  <lastmod>2020-09-08T17:43:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.periyar142.info/donate/</loc>
+  <lastmod>2020-09-08T17:43:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
