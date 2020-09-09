@@ -3,7 +3,7 @@ date: 2020-09-05T00:00:00.000Z
 layout: post
 title: Speech Competition
 subtitle: Day-2 celebrations on Sunday, 20.Sep.2020, 2 PM CST.
-description: Encourage inquisitive young minds to reason, rationalize and fearlessly ask questions especially when something does not connect with the intellect… just the way Periyar did.
+description: Encourage inquisitive young minds to reason, rationalize and fearlessly ask questions especially when something does not connect with the intellect…
 image: https://res.cloudinary.com/periyar142/image/upload/v1599453697/Speech_shndzz.png
 optimized_image: https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1599453697/Speech_shndzz.png
 category: Competition
