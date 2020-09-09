@@ -3,7 +3,7 @@ date: 2020-09-05T00:00:00.000Z
 layout: post
 title: Speech Competition
 subtitle: Day-2 celebrations on Sunday, 20.Sep.2020, 2 PM CST.
-description: Periyar International take this opportunity to the students in North America to demonstrate their Public Speaking skills.
+description: Encourage inquisitive young minds to reason, rationalize and fearlessly ask questions especially when something does not connect with the intellect… just the way Periyar did.
 image: https://res.cloudinary.com/periyar142/image/upload/v1599453697/Speech_shndzz.png
 optimized_image: https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1599453697/Speech_shndzz.png
 category: Competition
@@ -14,7 +14,10 @@ author: Periyar-International
 paginate: true
 ---
 
-Public speaking is one of the most important and most dreaded forms of communication. Periyar International take this opportunity to provide a platform to the students in North America to demonstrate their 'Public Speaking' skills.
+“Speech is power: speech is to persuade, to convert, to compel.”
+— Ralph Waldo Emerson, an American essayist and lecturer
+As we are getting ready to celebrate the life and legacy of Periyar Ayya, on his 142nd birthday, we think it would be very fitting for our youth to engage in a heartfelt rhetorical session learning about what turned a common man EVR into “Periyar” indeed. Our intent is to encourage inquisitive young minds to reason, rationalize and fearlessly ask questions especially when something does not connect with the intellect… just the way Periyar did.   In an effort to follow in his footsteps and pave the way for more “Periyars” in-the-making, let’s get the word out about this Youth Speech Competition to reel in more participants!
+
 
 <table>
   <tbody>
