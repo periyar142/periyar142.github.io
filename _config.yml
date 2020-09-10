@@ -14,6 +14,12 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Speakers
+    url: /speakers
+  - title: Competition
+    url: /competition
+  - title: Donate
+    url: /donate
 email: periyar142@gmail.com
 disqus_username: Periyar-International
 
