@@ -39,8 +39,6 @@ As we are getting ready to celebrate the life and legacy of Periyar Ayya, on his
 
 > Speech must be in Tamil or English for maximum Two minutes.இரண்டு மணித்துளிகள் தமிழில் அல்லது ஆங்கிலத்தில் பேச வேண்டும்.
 
-<center><a href='https://forms.gle/8rywfqZhpjXia3Sb9'><img src='/assets/img/register.png' alt='register'/></a></center>
-
 
 <table>
   <tbody>
@@ -104,7 +102,7 @@ All the participants will get award of <strong>20 USD</strong>. The winners awar
 
 > The Zoom link will be emailed [and] updated in this page on 19.Sep.2020
 
-<center><a href='https://forms.gle/8rywfqZhpjXia3Sb9'><img src='/assets/img/register.png' alt='register'/></a></center>
+
 
 
 
