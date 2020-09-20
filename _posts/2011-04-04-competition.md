@@ -46,7 +46,7 @@ The Zoom online meeting links for the speech competition n is given below
       </td>
     </tr>
     <tr>
-      <td colspan=2><strong>Grand Finale, Prize Distributions and Celebration note(s)</strong><br/>5 PM (CST) - 6 PM (EST) - 3 PM (PST)</td>
+      <td colspan=2><strong>Grand Finale, Prize Distribution and Celebration note(s)</strong><br/>5 PM (CST) - 6 PM (EST) - 3 PM (PST)</td>
     </tr>
     <tr>
       <td colspan=2><p><a href='https://us02web.zoom.us/j/86446518003'>https://us02web.zoom.us/j/86446518003</a><br/>Meeting ID: 864 4651 8003</p></td>
